@@ -10,7 +10,7 @@ Office_Details:{
 
     Office_Salary:{
         Amount: '30k',
-        Date: ['End of maonth 30k', "middle of month 15k"]
+        Date: ['End of month 30k', "middle of month 15k"]
     }
 }
 }
